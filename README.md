@@ -1,4 +1,4 @@
-# blockchainjs
+# blockchain
 simple blockchain implementation using nodejs
 
 
